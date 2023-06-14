@@ -1,0 +1,3 @@
+1,ADM,admin,password,admin@example.com
+2,MEM,member,password,member@example.com
+3,MEM,newuser1,password,example@example.com
